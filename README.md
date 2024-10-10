@@ -33,16 +33,16 @@ Click to expand
 > UI borders may seem low quality in the screenshots. You can zoom in for better details. For more info and to see the features in action, go to the video demo above.
 </summary>
   
-### File List (Clean UI)
+### File List - Clean UI
 ![File List (Clean UI)](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/file-list-clean-UI.png)
 
-### File Viewer (Video and Controls)
+### File Viewer - Video and Controls
 ![File Viewer (Video and Controls)](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/file-viewer-video.png)
 
-### File List (Detailed UI With Item Selection, Drag and Drop, and Upload Queue)
+### File List - Detailed UI With Item Selection, Drag and Drop, and Upload Queue
 ![File List (Detailed UI With Item Selection, Drag and Drop, and Upload Queue](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/file-list-detailed-UI.png)
 
-### File Viewer (PDF and Shareable Link Generation)
+### File Viewer - PDF and Shareable Link Generation
 ![File Viewer (PDF and Shareable Link Generation)](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/file-viewer-pdf-share-modal.png)
 
 ### Settings
@@ -50,6 +50,12 @@ Click to expand
 
 ### Login
 ![Login](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/login.png)
+
+### Responsive Design - Usable on Varied Screen Sizes
+<p align='center'>
+    <img src="https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/mobile-file-list.jpg" width="37%">
+    <img src="https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/mobile-file-viewer.jpg" width="37%">
+</p>
 
 </details>
 
