@@ -100,4 +100,4 @@ Click to expand
 </details>
 
 ### 📞 Contact
-Have a question or want to work with me? You can reach me through my [LinkedIn](https://www.linkedin.com/in/mohammad-su), through the [contact form on my portfolio.](https://msudigital.pages.dev/#contact).
+Have a question or want to work with me? You can reach me through my [LinkedIn](https://www.linkedin.com/in/mohammad-su), or through the [contact form on my portfolio.](https://msudigital.pages.dev/#contact)
