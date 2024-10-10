@@ -54,7 +54,7 @@ Click to expand
 ### Responsive Design - Usable on Varied Screen Sizes
 <p align='center'>
     <img src="https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/mobile-file-list.jpg" width="37%">
-    <img src="https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/mobile-file-viewer.jpg" width="37%">
+    <img src="https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/mobile-file-viewer.jpg" width="37.09%">
 </p>
 
 </details>
