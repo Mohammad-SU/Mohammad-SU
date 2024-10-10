@@ -63,6 +63,7 @@ Click to expand
 <details>
   
 <summary>Click to expand</summary>
+&nbsp;
 
 ⚡ **Cost and Performance Optimisation**
 >Integrates zero-egress-fee object storage, presigned URLs, no-cost cloud service tiers, CDN, caching, lazy loading, data deduplication, automated cleanup, throttling, and usage limits - these lead to ***zero costs*** in data storage/processing, ***+63.3% faster*** API in production, being ***+2.7x faster*** than DropBox in service speed, and improved scalability and UX.
