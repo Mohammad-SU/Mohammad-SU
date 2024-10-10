@@ -96,3 +96,6 @@ Click to expand
 >Improved type safety and documentation through use of TypeScript, PHPDoc/type hinting, and PHPStan - leading to a high reduction in runtime errors and time spent debugging them. 
 
 </details>
+
+### 📞 Contact
+Have a question or want to work with me? You can reach me through my [LinkedIn](https://www.linkedin.com/in/mohammad-su) or through the [contact form on my portfolio.](https://msudigital.pages.dev/#contact)
