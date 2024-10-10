@@ -1,5 +1,5 @@
 ## 💻 Welcome! I'm Mohammad S.U. A Full-Stack Web Developer.
-I have experience in React, TypeScript, Laravel, and SQL. I've honed my skills as the solo/lead developer of [LimeDrive.net](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public) - a full-stack cloud storage/file hosting service, robust and serverless. I aim to craft cost-effective scalable solutions with exceptional user experience.
+With experience in React, TypeScript, Laravel, and SQL, I've honed my skills as the solo/lead developer of [LimeDrive.net](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public) - a full-stack cloud storage/file hosting service, robust and serverless. I aim to craft cost-effective scalable solutions with exceptional user experience.
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react" alt="React Badge">
