@@ -1,3 +1,5 @@
+[![banner](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/loading-screen-banner.png)](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public)
+
 ## 💻 Welcome! I'm Mohammad S.U. A Full-Stack Web Developer.
 With experience in React, TypeScript, Laravel, and SQL, I've honed my skills as the solo/lead developer of [LimeDrive.net](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public) - a full-stack cloud storage/file hosting service, robust and serverless. I aim to craft cost-effective scalable solutions with exceptional user experience.
 
@@ -19,7 +21,7 @@ With experience in React, TypeScript, Laravel, and SQL, I've honed my skills as 
 
 Solo-developed this robust cloud storage service for over a year, with some areas surpassing Dropbox/Google Drive (particularly speed). I handled all complex architectural and scalability decisions, implementing them myself. Seamlessly manage and view files in LimeDrive's sleek retro UI - secure, fast, and performant. Click the image to watch the demo:
 
-[![LimeDrive Demo](https://raw.githubusercontent.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/refs/heads/main/screenshots/yt-video-img.png)](https://youtu.be/3P_LIRLbSy4)
+[![LimeDrive Demo](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/yt-video-img.png)](https://youtu.be/3P_LIRLbSy4)
 
 ### 📸 Screenshots With Captions
 
