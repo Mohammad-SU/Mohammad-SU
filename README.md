@@ -28,7 +28,7 @@ Solo-developed this robust cloud storage service for over a year, with some area
 <summary>
 Click to expand
 
-> UI borders may seem low quality in the screenshots. You can zoom in for better details. For more info and to see the features in action, see the video demo above.
+> UI borders may seem low quality in the screenshots. You can zoom in for better details. For more info and to see the features in action, go to the video demo above.
 </summary>
   
 ### File List (Clean UI)
