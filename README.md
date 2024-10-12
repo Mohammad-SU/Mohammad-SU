@@ -101,7 +101,13 @@ Click to expand
 >A creative mix of bulletin board system/CLI themes with modern, responsive elements. Errors are more detailed/user-friendly than DropBox and UI is noticeably faster for a seamless experience.
 
 ✅ **Code Quality** 
->Improved type safety and documentation through use of TypeScript, PHPDoc/type hinting, and PHPStan - leading to a high reduction in runtime errors and time spent debugging them. 
+>Improved type safety and documentation through use of TypeScript, PHPDoc/type hinting, and PHPStan - leading to a high reduction in runtime errors and time spent debugging them.
+
+⏲️ **Concurrency Control** 
+>DB constraints, transactions, mutexes, and graceful exception handling allows for robust concurrent operations to avoid race conditions.
+
+⚙️ **CI/CD Pipelines** 
+>Separated development and production environments, with configurations on Render, Cloudflare, Docker, Github Actions, and Doppler - reducing the chance of downtime.
 
 </details>
 
