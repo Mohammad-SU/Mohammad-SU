@@ -16,7 +16,7 @@ With experience in React, TypeScript, Laravel, and SQL, I've honed my skills as 
 </p>
 
 ## 💼 Experience
-### Solo/lead developer of full-stack cloud storage/file hosting service  –  2023 to 2024
+### Solo/lead developer of full-stack cloud storage/file hosting service
 ### [LimeDrive.net](https://limedrive.net) &nbsp;–&nbsp; [Video Demo](https://youtu.be/3P_LIRLbSy4) &nbsp;–&nbsp; [GitHub Repo](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public)
 
 Solo-developed this robust cloud storage service, with some areas surpassing Dropbox/Google Drive (particularly speed). I handled all complex architectural and scalability decisions, implementing them myself. Seamlessly manage and view files in LimeDrive's sleek retro UI - secure, fast, and performant. Click the image to watch the demo:
