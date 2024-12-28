@@ -1,7 +1,7 @@
 [![banner](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public/blob/main/screenshots/loading-screen-banner.png)](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public)
 
 ## 💻 Welcome! I'm Mohammad S.U. A Full-Stack Developer.
-with extensive experience in **frontend**, **backend**, and **databases**, I've honed my skills as the creator of [LimeDrive.net](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public) - a full-stack cloud storage/file hosting service that I professionally optimised for cost and performance. I aim to craft scalable solutions with exceptional user experience.
+With extensive experience in **frontend**, **backend**, and **databases**, I've honed my skills as the creator of [LimeDrive.net](https://github.com/Mohammad-SU/LimeDrive-Cloud-Storage-Public) - a full-stack cloud storage/file hosting service that I professionally optimised for cost and performance. I aim to craft scalable solutions with exceptional user experience.
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react" alt="React Badge">
